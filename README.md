@@ -1,4 +1,3 @@
 
-![Command Execution Screenshot](https://i.ibb.co/CBQXhpH)
-
+![Command Execution Screenshot](https://ibb.co/CBQXhpH)
 
